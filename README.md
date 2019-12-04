@@ -18,8 +18,11 @@ Sample Input:
 
 Sample Output:
 {
+
  nobody : 1
+ 
  cried : 5
+ 
 }
 
 ## My implementation
