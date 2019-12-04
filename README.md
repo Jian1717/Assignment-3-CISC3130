@@ -4,7 +4,7 @@ Section: TY2
 Brooklyn College
 
 ## Objective: WordCount.java
-1)Read a text file which contain lyrics of a song./n 
+1)Read a text file which contain lyrics of a song.
 2)Break down lyrics into unique words (ignore case and symbol)
 3)Place words and its frequency into desirale Data Structure
 4)output frequency of each unique into text file.
